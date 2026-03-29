@@ -10,6 +10,13 @@ During this project, I worked on:
 ```
 This hands-on task has helped me improve my practical skills in JavaScript logic building, dynamic calculations, and interactive UI development.
 Looking forward to exploring APIs and enhancing UI in the upcoming tasks!
+---
+
+# 🔗 Live Demo
+
+🌐 [calculator-web-application-kfzerfrah.vercel.app ](calculator-web-application-kfzerfrah.vercel.app) 
+
+---
 #FrontendDevelopment 
 #JavaScript 
 #WebDevelopment 
